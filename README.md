@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevUpTam
 - 👀 I’m interested in Machine Learning, Web Development, Software Development.
-- 🌱 I’m currently learning Machine Learning Algorithms, Hypergraph Partitioning.
+- 🌱 I’m currently learning Deep Learning and ReactJS.
 - 💞️ I’m looking to collaborate on ...   
 - 📫 How to reach me tamonashbhattacharyya2@gmail.com
 
